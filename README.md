@@ -63,3 +63,6 @@ The **Women Safety Voice-Activated Security System** is a **machine learning-pow
 ### **1️ Install Dependencies**
 ```sh
 pip install pocketsphinx speechrecognition opencv-python numpy requests pycaw pygame geopy twilio
+pip install pocketsphinx speechrecognition opencv-python numpy requests pycaw pygame geopy twilio torch torchaudio transformers deepface
+
+
